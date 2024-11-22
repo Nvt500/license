@@ -1,10 +1,16 @@
 
 # license
 
-A cli to easily add licenses to your project. The program will take from
-a directory at the executable's path called ```licenses```. The licenses
-source is taken from 
-[https://choosealicense.com/](https://choosealicense.com/).
+A cli to easily add licenses to your project (add a LICENSE file to the 
+directory the terminal is currently in).
+
+The program will take from a directory at
+the executable's path called ```licenses```. 
+
+The licenses source is 
+taken from [https://choosealicense.com/](https://choosealicense.com/).
+
+<hr>
 
 For licenses like MIT where there is a place to enter your name, date, 
 etc, wrap it in braces.
